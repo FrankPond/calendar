@@ -1,5 +1,7 @@
 # calendar
-![Image text] (img-folder/Home.png)
+### 效果图：<br>
+![主页效果图](https://github.com/FrankPond/calendar/raw/dev/img-folder/Home.png)
+![Today页效果图](https://github.com/FrankPond/calendar/raw/dev/img-folder/Today.png)
 
 目前已实现的功能：
   1.显示日历，日历的日期选择，月份切换的基础功能
