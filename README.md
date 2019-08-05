@@ -15,12 +15,12 @@ ps：本项目是自己在学习Vue框架的过程中的动手练习，借鉴了
 
 ## Build Setup
 ```
-# install dependencies
+# install dependencies 安装依赖库
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 运行
 npm run serve
 
-# Compiles and minifies for production
+# Compiles and minifies for production 打包
 npm run build
 ```
