@@ -1,5 +1,5 @@
 # calendar
-![Image text] (/img-folder/Home.png)
+![Image text] (img-folder/Home.png)
 
 目前已实现的功能：
   1.显示日历，日历的日期选择，月份切换的基础功能
