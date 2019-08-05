@@ -1,4 +1,4 @@
-# calendar
+# WaterMelon Calendar
 ### 效果图：<br>
 ![Home页效果图](https://github.com/FrankPond/calendar/raw/dev/img-folder/Home.png)
 ![Today页效果图](https://github.com/FrankPond/calendar/raw/dev/img-folder/Today.png)
